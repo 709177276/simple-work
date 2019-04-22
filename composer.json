@@ -9,6 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "PHP": ">=7.0"
     },
