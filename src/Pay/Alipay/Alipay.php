@@ -1,6 +1,6 @@
 <?php
 
-namespace SW\Pay\Alipay;
+namespace XJ\Pay\Alipay;
 
 class Alipay
 {

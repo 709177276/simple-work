@@ -1,11 +1,14 @@
 {
-    "name": "xiaojin/simple-work",
+    "name": "xj/simple-work",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "xiaojin802399",
             "email": "xiaojin802399@gmail.com"
+        },
+        {
+            "name": "zxj95121"
         }
     ],
     "minimum-stability": "dev",
@@ -15,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SW\\": "src"
+            "XJ\\": "src"
         }
     }
 }
