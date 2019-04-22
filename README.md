@@ -1,2 +1,2 @@
 # simple-work
-为了便捷工作床架的composer包
+为了便捷工作创建的composer包
